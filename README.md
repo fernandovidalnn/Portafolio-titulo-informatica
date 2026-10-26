@@ -87,10 +87,9 @@ Repositorios
 
 ### Requisitos
 
-- Android Studio (versión reciente)
-- JDK 17
+- Android Studio
 - Un dispositivo o emulador Android; idealmente una **tablet** para probar la escritura
-- Un proyecto de Supabase con sus credenciales
+- Conexión a Internet para el inicio de sesión y la sincronización
 
 ### Pasos
 
@@ -98,18 +97,12 @@ Repositorios
    ```bash
    git clone https://github.com/fernandovidalnn/Portafolio-titulo-informatica.git
    ```
-2. Abrir la carpeta del proyecto en **Android Studio** y esperar a que Gradle sincronice.
-3. Configurar las credenciales de Supabase en el archivo `local.properties` (no se sube al repositorio):
-   ```properties
-   SUPABASE_URL=tu_url_de_supabase
-   SUPABASE_ANON_KEY=tu_clave_publica
-   ```
-4. Conectar el dispositivo Android o iniciar un emulador.
-5. Presionar **Run ** en Android Studio.
+2. Abrir la carpeta del proyecto, que está dentro de `Fase 2`, en **Android Studio** y esperar a que Gradle sincronice.
+3. Conectar el dispositivo Android o iniciar un emulador.
+4. Presionar **Run ** en Android Studio.
 
 > La primera vez que se usa el reconocimiento de escritura, ML Kit descarga el modelo de idioma, así que en ese momento se necesita conexión.
 
 ## Documentación
 
 La documentación de la Fase 1 (requerimientos, casos de uso, historias de usuario, modelo de datos y Carta Gantt) está en la carpeta del portafolio del equipo.
-
