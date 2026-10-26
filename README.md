@@ -61,7 +61,7 @@ Repositorios
 
 ## Funcionalidades implementadas
 
-### ✅ Completadas
+###  Completadas
 
 - Registro, inicio y cierre de sesión de adultos (docente y adulto responsable)
 - Gestión de perfiles de estudiantes por el adulto responsable
@@ -75,7 +75,7 @@ Repositorios
 - Revisión del progreso por el docente y el adulto responsable
 - Gestión de usuarios por el administrador
 
-### 🔄 En desarrollo
+###  En desarrollo
 
 - Diagnóstico inicial
 - Ejercicios personalizados
@@ -112,3 +112,4 @@ Repositorios
 ## Documentación
 
 La documentación de la Fase 1 (requerimientos, casos de uso, historias de usuario, modelo de datos y Carta Gantt) está en la carpeta del portafolio del equipo.
+
