@@ -105,7 +105,7 @@ Repositorios
    SUPABASE_ANON_KEY=tu_clave_publica
    ```
 4. Conectar el dispositivo Android o iniciar un emulador.
-5. Presionar **Run ▶** en Android Studio.
+5. Presionar **Run ** en Android Studio.
 
 > La primera vez que se usa el reconocimiento de escritura, ML Kit descarga el modelo de idioma, así que en ese momento se necesita conexión.
 
